@@ -2,6 +2,14 @@
 
 A web application to generate new and custom faces/sketches using the concept of Poisson Blending involves concept of feature extraction, image manipulation, array manipulation, clustering and deep learning.
 
+This project aims to encapsulate our skills obtained during our course and our specializations. Sketch Assistant System is a Python tool that simplifies sketch creation. It offers users an easy and expressive way to create unique sketches effortlessly using prompts like options.
+
+It begins by assuming that common facial features can be extracted and classified using techniques like facial landmark identification and bounding box determination. These features are then organized using the K-means algorithm to identify common patterns and variations in facial traits.
+
+Once facial features are clustered, the project utilizes Poisson Blending to generate sketches based on user preferences. This allows users to quickly generate sketches for artistic or forensic purposes, providing them with interactive tools to sculpt faces according to their vision and imagination.
+
+
+
 # Requirements
 
 > numpy:  coordinates function to convert and access arrays. Used for mathematical methods such as finding mean, min-max function, floor, ceiling functions, sqrt functions, random choice function, concatenate function,  reading npz file etc.
@@ -65,7 +73,7 @@ Use of python backend principles have been made. Django and docker have been uti
 # Resulting Sketch
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/8445397a-e04d-4470-94d1-41495a144b2a" />    <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/e49efc3b-1ee8-4331-9ed2-40019ae48865" />
 
-Fig..  Adding an eye of choosing (chosen attribute, corresponding mask and target image)    Fig. The other eye is a mirror image of previously chosen
+Fig.  Adding an eye of choosing (chosen attribute, corresponding mask and target image) and The other eye is a mirror image of previously chosen
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/0595fc23-7614-4fbe-9570-f20addc76232" />
 Fig. Addition of nose
