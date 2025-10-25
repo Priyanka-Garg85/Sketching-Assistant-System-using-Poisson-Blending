@@ -34,12 +34,12 @@ A web application to generate new and custom faces/sketches using the concept of
 # Implementation and steps involved:
 
 # 1. Data Acquisition:
-Acquired face image dataset from Kaggle consisting of 7049 faces with 15 keypoints.Data divided into images (npz file) and corresponding keypoints (csv file).
+Acquired face image dataset from Kaggle consisting of 7049 faces with 15 keypoints. Data divided into images (npz file) and corresponding keypoints (csv file).
 # 2. Preprocessing:
 Null point values removed, resulting in 2140 images with 15 key points.
 # 3. Bounding Boxes:
 Defined bounding boxes around facial components using landmarks. Ensured bounding boxes cover facial features with minimal overlap.
-#4. Isolation of Features:
+# 4. Isolation of Features:
 Features isolated using bounding boxes stored in separate matrices for each feature.
 # 5. Applying K-Means:
 Used K-means clustering to group similar facial features and remove duplicates. Clustering ensures similar features are grouped together for further analysis
@@ -62,15 +62,15 @@ Our project concludes with the creation a user interface in form of a web applic
 
 Use of python backend principles have been made. Django and docker have been utilised.
 
-#Resulting Sketch
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8445397a-e04d-4470-94d1-41495a144b2a" />    <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/e49efc3b-1ee8-4331-9ed2-40019ae48865" />
+# Resulting Sketch
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/8445397a-e04d-4470-94d1-41495a144b2a" />    <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/e49efc3b-1ee8-4331-9ed2-40019ae48865" />
 
 Fig..  Adding an eye of choosing (chosen attribute, corresponding mask and target image)    Fig. The other eye is a mirror image of previously chosen
 
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/0595fc23-7614-4fbe-9570-f20addc76232" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/0595fc23-7614-4fbe-9570-f20addc76232" />
 Fig. Addition of nose
 
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/e6ac9b81-7d94-4ace-a2cd-2427c0974120" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/e6ac9b81-7d94-4ace-a2cd-2427c0974120" />
 Fig. Addition of mouth and a complete sketch is presented
 
 
