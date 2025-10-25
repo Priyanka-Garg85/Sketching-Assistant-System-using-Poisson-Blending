@@ -69,6 +69,8 @@ Involves target image, input data, and masks.
 Our project concludes with the creation a user interface in form of a web application where users get to pick and choose features of their choice which are then blended together as per the discussed methodology and result is a unique face/sketch.
 
 Use of python backend principles have been made. Django and docker have been utilised.
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/c83be184-04b5-4472-83b9-779c50374c07" />
+
 
 # Resulting Sketch
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/8445397a-e04d-4470-94d1-41495a144b2a" />    <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/e49efc3b-1ee8-4331-9ed2-40019ae48865" />
@@ -77,7 +79,7 @@ Fig.  Adding an eye of choosing (chosen attribute, corresponding mask and target
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/0595fc23-7614-4fbe-9570-f20addc76232" />    <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/e6ac9b81-7d94-4ace-a2cd-2427c0974120" />
 
-Fig. Addition of nose and  Addition of mouth and a complete sketch is presented
+Fig. Addition of nose and  Addition of mouth with a complete sketch
 
 
 
