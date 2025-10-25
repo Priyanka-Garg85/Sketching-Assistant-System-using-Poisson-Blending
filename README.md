@@ -75,11 +75,9 @@ Use of python backend principles have been made. Django and docker have been uti
 
 Fig.  Adding an eye of choosing (chosen attribute, corresponding mask and target image) and The other eye is a mirror image of previously chosen
 
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/0595fc23-7614-4fbe-9570-f20addc76232" />
-Fig. Addition of nose
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/0595fc23-7614-4fbe-9570-f20addc76232" />    <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/e6ac9b81-7d94-4ace-a2cd-2427c0974120" />
 
-<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/e6ac9b81-7d94-4ace-a2cd-2427c0974120" />
-Fig. Addition of mouth and a complete sketch is presented
+Fig. Addition of nose and  Addition of mouth and a complete sketch is presented
 
 
 
