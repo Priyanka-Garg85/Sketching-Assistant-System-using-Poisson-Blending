@@ -28,8 +28,7 @@ A web application to generate new and custom faces/sketches using the concept of
 
 
 # Methodology Flowchart
-<img width="720" height="1128" alt="image" src="https://github.com/user-attachments/assets/40b68f3f-c634-46d6-8980-d7fbb0dfebb2" />
-<img width="482" height="750" alt="image" src="https://github.com/user-attachments/assets/655a3998-a7f3-4683-9977-756c5e15df42" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/40b68f3f-c634-46d6-8980-d7fbb0dfebb2" /><img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/655a3998-a7f3-4683-9977-756c5e15df42" />
 
 
 
